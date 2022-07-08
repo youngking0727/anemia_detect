@@ -1,0 +1,6 @@
+data/*
+flower_photos
+.vscode
+weight
+models
+*.tgz
